@@ -15,10 +15,4 @@ File Type Sorting: Automatically sorts files into categories such as Images, Doc
 
 Graphical User Interface: The GUI version provides buttons to select sorting options and a quit option to close the application cleanly.
 
-Flexible Organization: Users can choose to organize files by:
-
-File Type
-
-File Size
-
-Last Modified Date
+Flexible Organization: Users can choose to organize files by File Type, File Size, and Last Modified Date
